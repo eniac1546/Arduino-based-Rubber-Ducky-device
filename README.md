@@ -15,5 +15,5 @@ Once the run menu gets open we can type anything and execute the command. the co
 
 all though the attack is not that potentially harmfull. but jsut for fun you can do this.
 
-We can even launch advance attacks using the device
+We can even launch advance attacks using this device such as capturing keystrokes from a system.
 
